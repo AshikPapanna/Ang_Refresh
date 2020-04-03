@@ -1,5 +1,5 @@
 {
-  "name": "REFRESH",
+  "name": "@REFRESH-1.2.3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,9 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.901.0",
-    "@angular/cli": "^9.1.0"
-  ,    "@angular/compiler-cli": "~9.1.0",
+    "@angular/cli": "^9.1.0", 
     "typescript": "~3.8.3"
 }
 }
