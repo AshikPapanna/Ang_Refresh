@@ -1,1 +1,1 @@
-console.log('sadsad');
+var t=0;
